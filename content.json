@@ -1,0 +1,279 @@
+{
+  "site": {
+    "name": "Kavárna Paulus",
+    "url": "https://kavarnapaulus.cz/",
+    "ga_id": "",
+    "instagram_url": "https://www.instagram.com/",
+    "instagram_handle": "@kavarnapaulus",
+    "facebook_url": "https://www.facebook.com/",
+    "mhd_url": "https://idos.cz/olomouc/spojeni/",
+    "walk_url": "https://mapy.com/fnc/v1/route?mapset=outdoor&start=17.2512,49.5939&end=17.3357,49.6337&routeType=foot_hiking"
+  },
+  "seo": {
+    "title": "Kavárna Paulus — Svatý Kopeček, hned vedle baziliky",
+    "description": "Kavárna Paulus na Svatém Kopečku u Olomouce, hned vedle baziliky. Výběrová káva, čerstvé pečivo a terasa s výhledem na Hanou. Psi vítáni.",
+    "og_title": "Kavárna Paulus — kavárna na Svatém Kopečku",
+    "og_description": "Výběrová káva a čerstvé pečivo hned vedle baziliky na Svatém Kopečku u Olomouce. Terasa s výhledem, psi vítáni."
+  },
+  "contact": {
+    "street": "Ulice a č.p.",
+    "zip": "779 00",
+    "city": "Olomouc – Svatý Kopeček",
+    "phone": "+420 000 000 000",
+    "email": "ahoj@kavarnapaulus.cz"
+  },
+  "hours": [
+    {
+      "label": "Po–Pá",
+      "days": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "opens": "07:30",
+      "closes": "19:00"
+    },
+    {
+      "label": "So–Ne",
+      "days": [
+        0,
+        6
+      ],
+      "opens": "08:30",
+      "closes": "18:00"
+    }
+  ],
+  "amenities": [
+    "Bezbariérový vstup",
+    "Psi jsou u nás vítáni",
+    "Platba kartou i hotově",
+    "Terasa s výhledem na Hanou"
+  ],
+  "menu": [
+    {
+      "name": "Espresso",
+      "price": "55 Kč"
+    },
+    {
+      "name": "Flat White",
+      "price": "79 Kč"
+    },
+    {
+      "name": "Filtrovaná káva",
+      "price": "75 Kč"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "69 Kč"
+    },
+    {
+      "name": "Croissant",
+      "price": "55 Kč"
+    },
+    {
+      "name": "Cinnamon roll",
+      "price": "75 Kč"
+    },
+    {
+      "name": "Avocado toast",
+      "price": "139 Kč"
+    },
+    {
+      "name": "Domácí limonáda",
+      "price": "69 Kč"
+    }
+  ],
+  "events": [],
+  "faq": [
+    {
+      "q": "Kdy má Kavárna Paulus otevřeno?",
+      "a": "Otevřeno máme {otevreno}."
+    },
+    {
+      "q": "Dá se u vás rezervovat stůl?",
+      "a": "Ano. Vyplňte krátký formulář v sekci Rezervace, nebo nám zavolejte. Rezervaci vám potvrdíme e-mailem nebo telefonem."
+    },
+    {
+      "q": "Kde Kavárnu Paulus najdu?",
+      "a": "Na Svatém Kopečku u Olomouce, hned vedle baziliky Navštívení Panny Marie. Přesnou adresu najdete v sekci Návštěva."
+    },
+    {
+      "q": "Můžu k vám přijít se psem?",
+      "a": "Ano, psi jsou u nás vítáni — uvnitř i na terase."
+    },
+    {
+      "q": "Je kavárna bezbariérová?",
+      "a": "Ano, do kavárny vede bezbariérový vstup."
+    },
+    {
+      "q": "Dá se u vás platit kartou?",
+      "a": "Ano, platit můžete kartou i hotově."
+    },
+    {
+      "q": "Máte terasu?",
+      "a": "Ano, máme terasu s výhledem na Hanou."
+    },
+    {
+      "q": "Prodáváte dárkové poukazy a kávu domů?",
+      "a": "Ano. Dárkový poukaz i zrnkovou kávu koupíte přímo u nás, nebo si je předem objednejte e-mailem."
+    }
+  ],
+  "texts": {
+    "hero_title": "Kavárna na\nSvatém Kopečku",
+    "hero_lede": "Hned vedle baziliky — výběrová káva, čerstvé pečivo a výhled na celou Hanou.",
+    "hero_cta": "Rezervovat stůl",
+    "wave_hero": "NOVĚ OTEVŘENÁ KAVÁRNA · SVATÝ KOPEČEK · KAVÁRNA PAULUS · ",
+    "wave_divider": "VÝLET NA KOPEČEK · BAZILIKA · ZOO · VÝHLED NA HANOU · ",
+    "intro_title": "Paulus je místo na pomalá rána a poctivou kávu",
+    "intro_text": "Na Svatém Kopečku, pár kroků od baziliky. Pečeme každé ráno a věříme, že dobrá káva nemusí spěchat. Přijďte na espresso k baru, nebo si sedněte s knihou — čas si tu vezmete zpět.",
+    "trio_title": "Co u nás dostanete",
+    "card1_title": "Káva s duší",
+    "card1_text": "Espresso, filtr i mléčné nápoje z pečlivě vybraných zrn od pražíren, které známe jménem.",
+    "card2_title": "Něco k tomu",
+    "card2_text": "Sendviče, koláče a slané dobroty z vlastní kuchyně — vždycky čerstvé, nikdy z mrazáku.",
+    "card3_title": "Čerstvé pečivo",
+    "card3_text": "Croissanty a záviny pečené každé ráno do zlatova. Kdo přijde dřív, vybírá z teplého.",
+    "story_title": "Malá kavárna\nu velké baziliky",
+    "story_text1": "Paulus vznikl z jednoduché myšlenky: dát lidem na Kopečku důvod zastavit se. Ať jdete na mši, do zoo, nebo jen na procházku s výhledem.",
+    "story_text2": "Za barem stojíme my — a rádi vám povíme, odkud je dnešní zrno a co se zrovna peče. Přijďte se seznámit.",
+    "menu_title": "Denně čerstvé, celý rok",
+    "menu_note": "Rostlinná mléka +12 Kč · bezlepkové pečivo na dotaz",
+    "stay_title": "Sedněte si.\nZůstaňte chvíli.",
+    "stay_text": "Stůl u okna, za ním bazilika Navštívení Panny Marie a pod kopcem celá Haná. Paulus není káva s sebou na útěku — je to důvod se zastavit.",
+    "offer_title": "Na doma i jako dárek",
+    "offer1_title": "Dárkový poukaz",
+    "offer1_text": "Kafe a croissant pro někoho, kdo si zaslouží pomalé ráno. Poukaz na libovolnou částku.",
+    "offer1_cta": "Objednat poukaz",
+    "offer2_title": "Káva domů",
+    "offer2_text": "Zrnková káva, kterou u nás pijete, i na doma. Rádi poradíme, jak si ji připravit.",
+    "offer2_cta": "Zeptat se na kávu",
+    "offer3_title": "Akce",
+    "offer3_text": "Ochutnávky, koncerty na terase a sezónní speciality. Program brzy zveřejníme — sledujte náš Instagram.",
+    "offer3_cta": "Sledovat Instagram",
+    "trip_title": "Spojte kávu\ns výletem",
+    "trip_text": "Svatý Kopeček je jedno z nejkrásnějších míst kolem Olomouce. Kavárna Paulus je hned vedle baziliky — ideální zastávka před zoo i po ní.",
+    "trip_tip1_title": "Bazilika",
+    "trip_tip1_text": "Bazilika Navštívení Panny Marie — pár kroků od našich dveří.",
+    "trip_tip2_title": "ZOO Olomouc",
+    "trip_tip2_text": "Zoo na Svatém Kopečku. Po procházce mezi žirafami přijde káva vhod.",
+    "trip_tip3_title": "Výhled na Hanou",
+    "trip_tip3_text": "Z kopce je vidět celá rovina Hané až k Olomouci. Nejhezčí je za soumraku.",
+    "trip_mhd_title": "Autobusem z Olomouce",
+    "trip_mhd_text": "Městský autobus z Olomouce staví přímo na Svatém Kopečku. Aktuální spojení si najděte v IDOS.",
+    "trip_mhd_cta": "Najít spojení",
+    "trip_walk_title": "Pěšky nebo na kole",
+    "trip_walk_text": "Z Olomouce vede na Kopeček turistická trasa — pořádný výšlap, odměna čeká nahoře. Trasu vám ukážou Mapy.cz.",
+    "trip_walk_cta": "Trasa na Mapy.cz",
+    "gallery_title": "Jak to u nás vypadá",
+    "ig_title": "Co je u nás nového",
+    "ig_cta": "Sledovat na Instagramu",
+    "visit_title": "Najdete nás na Svatém Kopečku",
+    "visit_cta": "Navigovat na Mapy.cz",
+    "faq_title": "Než dorazíte",
+    "rez_title": "Zamluvte si stůl",
+    "rez_text": "Vyplňte pár údajů a my se vám ozveme s potvrzením. Skupinky i tichý kout — dáme to.",
+    "rez_ok": "Děkujeme! Rezervaci jsme přijali a brzy se vám ozveme s potvrzením.",
+    "rez_mail_intro": "děkujeme za rezervaci v Kavárně Paulus. Přijali jsme ji a brzy vám ji potvrdíme e-mailem nebo telefonem.",
+    "footer_note": "Kavárna na Svatém Kopečku u Olomouce"
+  },
+  "photos": {
+    "g1": {
+      "id": "78161993",
+      "w": [
+        640,
+        960,
+        1280
+      ],
+      "avif": true,
+      "alt": "Světlá kavárna s dlouhým stolem, křesly a barem v pozadí"
+    },
+    "g2": {
+      "id": "78d4a519",
+      "w": [
+        640,
+        960,
+        1280
+      ],
+      "avif": true,
+      "alt": "Posezení v křeslech u okna, police s gramofonovými deskami"
+    },
+    "g3": {
+      "id": "5517fbee",
+      "w": [
+        640,
+        960,
+        1280
+      ],
+      "avif": true,
+      "alt": "Večerní bar s policemi plnými desek a lampami"
+    },
+    "ig1": {
+      "id": "3a8a17e8",
+      "w": [
+        240,
+        360,
+        480,
+        720
+      ],
+      "avif": true,
+      "alt": "Bar s nápisem Slow down a lampou"
+    },
+    "ig2": {
+      "id": "fbc60e7b",
+      "w": [
+        240,
+        360,
+        480,
+        720
+      ],
+      "avif": true,
+      "alt": "Podsvícená police s gramofonovými deskami"
+    },
+    "ig3": {
+      "id": "6294dc57",
+      "w": [
+        240,
+        360,
+        480,
+        720
+      ],
+      "avif": true,
+      "alt": "Gramofon a knihovna"
+    },
+    "ig4": {
+      "id": "a1e4a7c0",
+      "w": [
+        240,
+        360,
+        480,
+        720
+      ],
+      "avif": true,
+      "alt": "Barové židle u pultu"
+    },
+    "ig5": {
+      "id": "ad13b79c",
+      "w": [
+        240,
+        360,
+        480,
+        720
+      ],
+      "avif": true,
+      "alt": "Zelené křeslo a velká rostlina"
+    },
+    "ig6": {
+      "id": "56ff3bbd",
+      "w": [
+        240,
+        360,
+        480,
+        720
+      ],
+      "avif": true,
+      "alt": "Křesla a stolek s kávou"
+    }
+  }
+}
